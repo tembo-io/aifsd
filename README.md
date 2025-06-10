@@ -58,11 +58,16 @@ The adoption of AI-assisted coding has dramatically increased development veloci
 - When in doubt, your judgment wins.
 - AI suggests, you decide.
 
+### 11. **Domain knowledge is your unfair advantage.** 
+- AI knows syntax and patterns, but you know why the business logic exists and what could go wrong in production.
+- That context gap is where human judgment becomes irreplaceable.
+
 _(PR improvements to this manifesto, if you have any)_
 
 ## Signed
 
 1. [@rywalker](https://twitter.com/rywalker) [Tembo](https://tembo.io)
+2. [@jo-van](https://www.linkedin.com/in/jonathan-vanderford/)
 
 _(PR your signature to bottom of this list, if you're in)_
 
