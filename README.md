@@ -73,16 +73,16 @@ _(PR your signature to bottom of this list, if you're in)_
 
 ## Tools
 
-- [AI Dev Tasks](https://github.com/snarktank/ai-dev-tasks)
-- [Aider](https://github.com/paul-gauthier/aider)
+- [AI Dev Tasks](https://github.com/snarktank/ai-dev-tasks) ![GitHub Repo stars](https://img.shields.io/github/stars/snarktank/ai-dev-tasks)
+- [Aider](https://github.com/paul-gauthier/aider) ![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider)
 - [Claude Code](https://claude.ai/code)
-- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master)
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 - [Codegen](https://codegen.com/)
 - [Cursor](https://cursor.com)
 - [Devin AI](https://cognition.ai/blog/introducing-devin)
 - [GitHub Copilot](https://github.com/features/copilot)
-- [Lovable](https://github.com/lovable-ai/lovable)
-- [OpenAI Codex](https://github.com/openai/codex)
+- [Lovable](https://github.com/lovable-ai/lovable) ![GitHub Repo stars](https://img.shields.io/github/stars/lovable-ai/lovable)
+- [OpenAI Codex](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex)
 - [Replit](https://replit.com)
 - [Tembo](https://tembo.io)
 
