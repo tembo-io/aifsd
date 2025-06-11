@@ -73,13 +73,17 @@ _(PR your signature to bottom of this list, if you're in)_
 
 ## Tools
 
-- [Tembo](https://tembo.io)
 - [AI Dev Tasks](https://github.com/snarktank/ai-dev-tasks)
-- [Cursor](https://cursor.com)
-- [Claude Code](https://claude.ai/code)
 - [Aider](https://github.com/paul-gauthier/aider)
+- [Claude Code](https://claude.ai/code)
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master)
+- [Codegen](https://codegen.com/)
+- [Cursor](https://cursor.com)
+- [Devin AI](https://cognition.ai/blog/introducing-devin)
+- [GitHub Copilot](https://github.com/features/copilot)
 - [Lovable](https://github.com/lovable-ai/lovable)
+- [OpenAI Codex](https://github.com/openai/codex)
 - [Replit](https://replit.com)
+- [Tembo](https://tembo.io)
 
 _(PR additional tools to bottom of this list, if you love them)_
