@@ -2,7 +2,7 @@
 
 The adoption of AI-assisted coding has dramatically increased development velocity, with teams reporting 10x more pull requests. This shift has forced organizations to rethink their development workflows, particularly around code review and merge processes. While generating initial code has become significantly easier, the challenge now lies in efficiently moving code from PR to production.
 
-## 10 Principles
+## Principles
 
 ### 1. **Let AI write the first attempt**
 
