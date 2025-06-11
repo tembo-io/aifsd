@@ -81,7 +81,7 @@ _(PR your signature to bottom of this list, if you're in)_
 - [Cursor](https://cursor.com)
 - [Devin AI](https://cognition.ai/blog/introducing-devin)
 - [GitHub Copilot](https://github.com/features/copilot)
-- [Lovable](https://github.com/lovable-ai/lovable) ![GitHub Repo stars](https://img.shields.io/github/stars/lovable-ai/lovable)
+- [Lovable](https://lovable.dev/)
 - [OpenAI Codex](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex)
 - [Replit](https://replit.com)
 - [Tembo](https://tembo.io)
